@@ -1,0 +1,13 @@
+{
+  "name": "prueba-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error\" && exit 1",
+    "start": "node file"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
